@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zinn-hub-reviews.github.io/sitemap.xml
